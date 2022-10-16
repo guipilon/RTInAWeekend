@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RayTracingInAWeekend", "RayTracingInAWeekend.vcxproj", "{ACF5C392-5487-407C-90B1-222E941B1C62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF5C392-5487-407C-90B1-222E941B1C62}.Debug|x64.ActiveCfg = Debug|x64
+		{ACF5C392-5487-407C-90B1-222E941B1C62}.Debug|x64.Build.0 = Debug|x64
+		{ACF5C392-5487-407C-90B1-222E941B1C62}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACF5C392-5487-407C-90B1-222E941B1C62}.Debug|x86.Build.0 = Debug|Win32
+		{ACF5C392-5487-407C-90B1-222E941B1C62}.Release|x64.ActiveCfg = Release|x64
+		{ACF5C392-5487-407C-90B1-222E941B1C62}.Release|x64.Build.0 = Release|x64
+		{ACF5C392-5487-407C-90B1-222E941B1C62}.Release|x86.ActiveCfg = Release|Win32
+		{ACF5C392-5487-407C-90B1-222E941B1C62}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD12DCD1-BA9C-49D7-8F6C-05B4945E0FF0}
+	EndGlobalSection
+EndGlobal
